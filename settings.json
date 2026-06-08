@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "ultra9173",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "ugkkr917",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Nova_smp_s2.aternos.me",
+    "port": 14632,
     "version": "",
     "try-creative": false
   },
@@ -77,7 +77,7 @@
     "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
-      "disconnect": true,
+      "disconnect": false,
       "chat": false
     }
   },

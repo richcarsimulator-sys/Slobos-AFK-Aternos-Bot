@@ -1,7 +1,7 @@
 {
-  "name": "ulta9173",
+  "name": "unot9173",
   "bot-account": {
-    "username": "ugkr917",
+    "username": "ur917",
     "password": "",
     "type": "offline"
   },
@@ -38,8 +38,8 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 12000
+    "auto-reconnect-delay": 20,
+    "max-reconnect-delay": 30
   },
   "movement": {
     "enabled": true,
